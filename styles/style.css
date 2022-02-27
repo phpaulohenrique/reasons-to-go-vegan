@@ -1,18 +1,14 @@
 *{
-
-    
-    
     font-family: Roboto, Arial, Tahoma, Helvetica, Verdana;
-
-
     box-sizing: border-box;
     
 }
 
 html{
-    background-color: rgb(224, 255, 218);
+    
+    background-color: white;
     font-size: 62.5%;
-    color: rgb(0, 0, 0);
+    color: rgb(2, 56, 0);
     font-family: Arial;
 
     text-align: justify;
@@ -54,6 +50,7 @@ img{
 }
 
 footer{
+    
     background-color: rgb(147, 201, 136) ;
     margin: 0;
     padding: 1rem;
