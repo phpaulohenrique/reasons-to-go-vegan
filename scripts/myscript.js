@@ -1,1 +1,1 @@
-alert("Seja bem vindo, Helton gordo! ")
+// alert("Seja bem vindo ao meu site! Att: Paulo Henrique. ")

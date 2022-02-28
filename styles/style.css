@@ -8,7 +8,7 @@ html{
     
     background-color: white;
     font-size: 62.5%;
-    color: rgb(2, 56, 0);
+    color: rgb(4, 110, 0);
     font-family: Arial;
 
     text-align: justify;
@@ -18,7 +18,7 @@ html{
 
 }
 
-header, main{
+main{
 
     margin-left: 1.3rem;
     margin-right: 1.3rem;
@@ -31,22 +31,36 @@ h1{
     font-weight: 600;
     /* margin: .5rem; */
     margin-bottom: 3rem;
+    margin-left: 1.3rem;
+    margin-right: 1.3rem;
 }
 
 h2{
-    font-size: 2rem
+    font-size: 2rem;
+    color: rgb(0, 156, 52);
 }
 
 p{
     font-size: 1.8rem;
     margin-bottom: 3.5rem;
     margin-top: 1rem;
+    margin-left: 1.3rem;
+    margin-right: 1.3rem;
 
 }
 
 img{
     width: 100%;
-    margin-bottom: 1.5rem;
+    height: 350px;
+    border: 1px solid rgb(0, 121, 26);
+
+}
+
+.first-text{
+
+    margin-top: 50px;
+    font-weight: bold;
+    letter-spacing:1px;
 }
 
 footer{
@@ -55,6 +69,13 @@ footer{
     margin: 0;
     padding: 1rem;
     
+}
+
+strong{
+
+    font-size: 1.8rem;
+    margin-left: 1.3rem;
+    margin-right: 1.3rem;
 }
 
 footer p {
