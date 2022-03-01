@@ -26,13 +26,18 @@ main{
 }
 
 h1{
-    margin-top: 1.5rem;
+    margin-top: 1rem;
     font-size: 2.8rem;
     font-weight: 600;
     /* margin: .5rem; */
     margin-bottom: 3rem;
     margin-left: 1.3rem;
     margin-right: 1.3rem;
+    position: absolute;
+    letter-spacing: 2.5px;
+    font-weight: 500;
+    top: 0;
+    color: white;
 }
 
 h2{
@@ -46,29 +51,48 @@ p{
     margin-top: 1rem;
     margin-left: 1.3rem;
     margin-right: 1.3rem;
+    line-height: 23px;
 
 }
 
 img{
     width: 100%;
-    height: 350px;
-    border: 1px solid rgb(0, 121, 26);
+    height: 300px;
+    border: 2px solid rgb(0, 88, 19);
+    max-width: 500px;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-bottom: 10px;
 
+
+}
+
+.first-img-pig{
+    
+    height:90%;
+    /* max-height: 1000px; */
+    
+    
 }
 
 .first-text{
 
-    margin-top: 50px;
+    margin-top: 20px;
     font-weight: bold;
-    letter-spacing:1px;
+    letter-spacing:.5px;
 }
 
 footer{
     
-    background-color: rgb(147, 201, 136) ;
+    background-color: rgb(176, 211, 170) ;
     margin: 0;
     padding: 1rem;
     
+}
+
+a{
+    color :rgb(0, 0, 134);
 }
 
 strong{
