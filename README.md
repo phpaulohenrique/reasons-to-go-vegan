@@ -1,6 +1,6 @@
-# 11 reasons to go Vegan
+# Reasons to go Vegan
 
-11 reasons to go vegan.
+Reasons to go vegan.
 
 language: pt-Br
 
