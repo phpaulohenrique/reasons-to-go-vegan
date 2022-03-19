@@ -1,6 +1,6 @@
 # Reasons to go Vegan
 
-Reasons to go vegan.
+Reasons to go vegan 🌱
 
 language: pt-Br
 
