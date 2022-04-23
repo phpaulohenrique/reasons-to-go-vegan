@@ -9,5 +9,5 @@ Project made in VanillaJS.
 <hr>
 hosted on netlify.
 
-link: https://reasonstogovegan-ph.netlify.app/
+link site: https://reasonstogovegan-ph.netlify.app/
 
