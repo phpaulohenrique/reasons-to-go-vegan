@@ -2,8 +2,12 @@
 
 Reasons to go vegan 🌱
 
-language: pt-Br
+language: pt-br
 
-hosted on netlify
-link site: http://vegansite-phmelo.netlify.app/ 
+Project made in VanillaJS.
+
+<hr>
+hosted on netlify.
+
+link: https://reasonstogovegan-ph.netlify.app/
 
